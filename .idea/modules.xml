@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CMS1.iml" filepath="$PROJECT_DIR$/.idea/CMS1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CodeIgniter-3.1.10/.idea/CodeIgniter-3.1.10.iml" filepath="$PROJECT_DIR$/../CodeIgniter-3.1.10/.idea/CodeIgniter-3.1.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../admin/.idea/admin.iml" filepath="$PROJECT_DIR$/../admin/.idea/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cms/.idea/cms.iml" filepath="$PROJECT_DIR$/../cms/.idea/cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crud/.idea/crud.iml" filepath="$PROJECT_DIR$/../crud/.idea/crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../html/.idea/html.iml" filepath="$PROJECT_DIR$/../html/.idea/html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../login/.idea/login.iml" filepath="$PROJECT_DIR$/../login/.idea/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oop/.idea/oop.iml" filepath="$PROJECT_DIR$/../oop/.idea/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../php_crud/.idea/php_crud.iml" filepath="$PROJECT_DIR$/../php_crud/.idea/php_crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../school_management/.idea/school_managment.iml" filepath="$PROJECT_DIR$/../school_management/.idea/school_managment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../traning/.idea/traning.iml" filepath="$PROJECT_DIR$/../traning/.idea/traning.iml" />
+    </modules>
+  </component>
+</project>

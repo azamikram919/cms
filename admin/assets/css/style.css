@@ -1,0 +1,123 @@
+html,body{
+    height: 100%;
+}
+body{
+    padding-top: 60px;
+}
+.huge{
+    font-size: 20px;
+}
+.tag-boxes .panel-red{
+    color: white;
+    background: #d9534f;
+}
+.tag-boxes .panel-red a{
+    color: #d9534f;
+}
+.tag-boxes .panel-red a:hover{
+    color: #b52b27;
+}
+.tag-boxes .panel-green{
+    color: white;
+    background: #5cb85c;
+}
+.tag-boxes .panel-green a{
+    color: #5cb85c;
+}
+.tag-boxes .panel-green a:hover{
+    color: #3d8b3d;
+}
+.tag-boxes .panel-yellow{
+    color: white;
+    background: #f0ad4e;
+}
+.tag-boxes .panel-yellow a{
+    color: #f0ad4e;
+}
+.tag-boxes .panel-yellow a:hover{
+    color: #df8a13;
+}
+#wrapper{
+    min-height: 100%;
+    position: relative;
+}
+.body-section{
+    padding-bottom: 70px;
+}
+footer{
+    background: lightseagreen;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer a{
+    color: white;
+    font-weight: bold;
+}
+footer a:hover{
+    color: white;
+    text-decoration: underline;
+}
+.navbar {
+    background: lightseagreen;
+}
+.post {
+    background: white;
+    border: 1px solid #e3e3e3;
+    margin: 15px 0px;
+}
+
+.post .post-date {
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.post .post-date .day {
+    font-size: 20px;
+    color: #24A7CF;
+}
+
+.post .post-date .year {
+    font-weight: 100;
+}
+
+.post .post-title {
+    padding: 20px 20px 50px 30px;
+    border-left: 1px solid #e3e3e3;
+}
+
+.post .post-title span {
+    font-size: 100%;
+    color: #24A7CF;
+    margin-left: 10px;
+
+}
+
+.post e-picture {
+    padding: 20px;
+}
+
+.post .profile-picture img {
+    width: 100px;
+    margin-left: -20px;
+}
+
+.post > a > img {
+    width: 100%;
+}
+
+.desc {
+    font-weight: 100;
+    margin: 5px;
+}
+
+.post {
+    background: white;
+    border: 1px solid #e3e3e3;
+    margin: 15px 0px;
+}
